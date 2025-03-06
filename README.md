@@ -28,5 +28,16 @@
 #####  Extract: Read the WooCommerce Orders Data
 #####  File: etl/extract.py
 
+### 2️. Transform – Clean & Prepare the Data
+##### transform.py
+
+### 3. Load – Store Data into PostgreSQL
+##### load.py
+
+### 4. Orchestrate the ETL Pipeline
+##### main.py
+
+### 5. SQL Queries for Sales Analysis
+
 
 
